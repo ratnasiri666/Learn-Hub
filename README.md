@@ -3,7 +3,7 @@ An e-learning website built with Handlebars  (HTML CSS JS) , NodeJS, Express, My
 
 # Set up project:
 
-1. `git clone https://github.com/hieuwu/learning-website.git`
+1. `git clone https://github.com/ratnasiri666/Learn-Hub.git`
 
 2. Copy all queries in `Database-Source/webDB-data.sql`
 
